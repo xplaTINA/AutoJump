@@ -1,5 +1,5 @@
 ([('autojump.exe',
-   'D:\\Downloads\\python\\build\\autojump\\autojump.exe',
+   'D:\\Downloads\\gitAutojump\\build\\autojump\\autojump.exe',
    'EXECUTABLE'),
   ('python313.dll',
    'C:\\Users\\usuke\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
@@ -32,5 +32,5 @@
    'C:\\Users\\usuke\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
    'BINARY'),
   ('base_library.zip',
-   'D:\\Downloads\\python\\build\\autojump\\base_library.zip',
+   'D:\\Downloads\\gitAutojump\\build\\autojump\\base_library.zip',
    'DATA')],)
