@@ -1,2 +1,2 @@
-git pull
+py Update.py
 pause
